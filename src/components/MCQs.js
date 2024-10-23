@@ -19,7 +19,7 @@ export default function MCQs() {
   const [isCorrect, setIsCorrect] = useState(null);
 
   useEffect(() => {
-    const shuffledQuestions = getRandomQuestions(questionData, 5);
+    const shuffledQuestions = getRandomQuestions(questionData, 10);
     setQuestions(shuffledQuestions);
   }, [getRandomQuestions]);
 
