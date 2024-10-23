@@ -1,4 +1,5 @@
-
+# Guess_Capital_Cities
+This is just a basic React app for MCQs that contain questions about the Capital Cities. 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -47,6 +48,5 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 
-# Guess_Capital_Cities
-This is just a basic React app for MCQs that contain questions about the Capital Cities. 
->>>>>>> 4538523e78f8b4b3508fb18003286f0bc97ed39c
+
+
